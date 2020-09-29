@@ -1,10 +1,10 @@
-package benjaminharbakk.com.firstapplayoyt;
+package benjaminharbakk.com.CodeDungeonMapCreator;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class Loading extends AppCompatActivity {
+public class LoadingActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

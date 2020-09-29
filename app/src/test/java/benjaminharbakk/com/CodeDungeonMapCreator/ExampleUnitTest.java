@@ -1,4 +1,4 @@
-package benjaminharbakk.com.firstapplayoyt;
+package benjaminharbakk.com.CodeDungeonMapCreator;
 
 import org.junit.Test;
 
