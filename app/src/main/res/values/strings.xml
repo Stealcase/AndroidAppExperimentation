@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Authenticator</string>
+
+    <string name="input_name">Name</string>
+    <string name="input_name_desc">Firstname and Lastname</string>
+    <string name="input_name_hint">Firstname and Lastname</string>
+
+    <string name="input_email">Email</string>
+    <string name="input_email_hint">example@mail.com</string>
+    <string name="input_email_desc">Email</string>
+
+    <string name="input_phone">Phone Number</string>
+    <string name="input_phone_hint">54546523</string>
+    <string name="input_phone_desc">Phone Number</string>
+
+
+    <string name="submit">Submit</string>
+</resources>
